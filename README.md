@@ -1,3 +1,4 @@
+// An amazing way to learn Js
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
